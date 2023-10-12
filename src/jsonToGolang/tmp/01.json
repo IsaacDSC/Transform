@@ -1,0 +1,20 @@
+{
+  "value": 1000,
+  "senderId": "c3abbad3-e790-4665-8798-174dff7e05f2",
+  "receiverId": "395e1635-2f97-417b-a67f-50a2ce032ff1",
+  "haha": [
+    "str",
+    "str"
+  ],
+  "user": {
+    "name": "isaac",
+    "address": [
+      {
+        "city": "city1"
+      },
+      {
+        "city": "city2"
+      }
+    ]
+  }
+}
